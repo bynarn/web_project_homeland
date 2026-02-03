@@ -1,0 +1,52 @@
+.header {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 45px 0; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  max-width: 255px;
+}
+
+.header__image {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+
+.header__title {
+  color: #ffffff;
+  font-family: "Inter-black", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0;
+  line-height: 1.2;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    padding: 35px 20px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .header {
+    padding: 28px 0;
+  }
+
+  .header__title {
+    font-size: 16px;
+  }
+}
