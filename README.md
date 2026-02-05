@@ -5,5 +5,3 @@ Descripcion del proyecto: Este es un proyecto meramente desarrollado para el Cur
 Descripcion de las tecnologias: Las tecnologias aplicadas a este proyecto han sido, manejos de html,css, y git en su totalidad, comandos simples y sencillos, el cual tambien implementamos el uso de media queries para adaptar el contenido a diferentes tipos de resoluciones, sin perder la estructura escencial.
 
 https://github.com/bynarn/web_project_homeland
-
-https://github.com/bynarn/web_project_homeland/deployments/github-pages
