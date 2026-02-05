@@ -12,7 +12,7 @@
     .intro__quote,
     .author_quote,
     .intro__text {
-        max-width: 830px; /* Limita el texto para que no sea tan largo */
+        max-width: 830px;
         width: 100%;
         margin-left: 0;
         margin-right: auto;
@@ -32,7 +32,7 @@
         line-height: 1.6;
     }
 
-    .author_quote {
+    .intro__author-quote {
         font-weight: 300;
         font-size: 24px;
         margin-top: 8px;
