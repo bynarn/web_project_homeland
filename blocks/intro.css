@@ -6,6 +6,7 @@
         box-sizing: border-box;
         display: block;
         text-align: left;
+        font-family: "inter-regular", Arial, sans-serif;
     }
 
     .intro__subtitle,
